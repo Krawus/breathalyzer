@@ -7,6 +7,8 @@
 
 ## Electrical diagram
 
+![circut](images/schematic.png)
+
 
 
 ## Wiring the prototype
@@ -25,3 +27,6 @@ For the preheat time I proggramed a fancy animated loading screen.
 After this I used simple analog read to read the value from sensor every 500ms. I am using millis() function to measure time between program loops - thanks to this I won't stop whole program using delay() function (multithreading 😎).
 
 To print every text horizontally centered I created the `print_in_centre()` function.
+
+It's really hard to calibrate properly this sensor - so it could show per mille value. By now I just calibrated it as good as I am able to in my home conditions. I designed housing in such a way that I will be able to calibrate it in the future if needed.
+
