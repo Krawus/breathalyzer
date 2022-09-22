@@ -28,5 +28,7 @@ After this I used simple analog read to read the value from sensor every 500ms. 
 
 To print every text horizontally centered I created the `print_in_centre()` function.
 
+![printed_in_centre](images/printed_text.png)
+
 It's really hard to calibrate properly this sensor - so it could show per mille value. By now I just calibrated it as good as I am able to in my home conditions. I designed housing in such a way that I will be able to calibrate it in the future if needed.
 
