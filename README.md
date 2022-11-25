@@ -1,4 +1,4 @@
-# breathalyzer - work in progress...
+# breathalyzer
 ## Components
 - Arduino nano
 - 0.91" OLED with I2C interface
@@ -34,3 +34,27 @@ Everything printed on the screen is managed by `print_reading()` function.
 
 It's really hard to calibrate properly this sensor - so it could show per mille value. By now I just calibrated it as good as I am able to in my home conditions. I designed housing in such a way that I will be able to calibrate it in the future if needed.
 
+## Soldered device
+
+![Soldered](images/Soldered.jpg)
+
+
+## Enclosure
+
+I designed enclosure for the breathalyzer using Autodesk Inventor in the most precise way so no glue is needed to assemble my device.
+
+![enclosure](images/enclosure.png)
+
+In the next step I 3D prineted the enclosure using my Ender 3 V2 printer.
+
+![printing](images/prineted_enclosure.jpg)
+
+## Assembling
+
+Finally I was able to assemble whole project
+
+![Aseembled](images/Assembled.jpg)
+
+![final](images/final_design.jpg)
+
+![finalgif](images/finalgif.gif)
