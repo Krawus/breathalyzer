@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\core\wiring_analog.c.o: \
+d:\Arduino_projects\breathalyzer\build\core\wiring_analog.c.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\wiring_analog.c \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\wiring_private.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Arduino.h \

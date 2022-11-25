@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_GFX.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_GFX.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \

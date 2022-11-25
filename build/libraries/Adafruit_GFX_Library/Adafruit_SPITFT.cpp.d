@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_SPITFT.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_SPITFT.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_SPITFT.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_SPITFT.h \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GFX.h \

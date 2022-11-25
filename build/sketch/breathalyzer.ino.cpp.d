@@ -1,5 +1,5 @@
-d:\alkomat\breathalyzer\build\sketch\breathalyzer.ino.cpp.o: \
- d:\alkomat\breathalyzer\build\sketch\breathalyzer.ino.cpp \
+d:\Arduino_projects\breathalyzer\build\sketch\breathalyzer.ino.cpp.o: \
+ d:\Arduino_projects\breathalyzer\build\sketch\breathalyzer.ino.cpp \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/binary.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/WCharacter.h \
@@ -21,4 +21,4 @@ d:\alkomat\breathalyzer\build\sketch\breathalyzer.ino.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO/Adafruit_SPIDevice.h \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_SSD1306/Adafruit_SSD1306.h \
- d:\alkomat\breathalyzer\build\sketch\beer_frames.h
+ d:\Arduino_projects\breathalyzer\build\sketch\beer_frames.h

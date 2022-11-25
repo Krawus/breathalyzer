@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_GrayOLED.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_GFX_Library\Adafruit_GrayOLED.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GrayOLED.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library\Adafruit_GrayOLED.h \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library/Adafruit_GFX.h \

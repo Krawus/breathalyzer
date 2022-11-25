@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\core\CDC.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\core\CDC.cpp.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\CDC.cpp \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\USBAPI.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Arduino.h \

@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\core\wiring.c.o: \
+d:\Arduino_projects\breathalyzer\build\core\wiring.c.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\wiring.c \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\wiring_private.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Arduino.h \

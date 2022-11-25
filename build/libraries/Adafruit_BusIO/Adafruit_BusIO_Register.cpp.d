@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_BusIO_Register.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO/Adafruit_BusIO_Register.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \

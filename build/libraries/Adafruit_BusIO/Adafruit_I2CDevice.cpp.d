@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_BusIO\Adafruit_I2CDevice.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_BusIO\Adafruit_I2CDevice.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_I2CDevice.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_BusIO\Adafruit_I2CDevice.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \

@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\core\Print.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\core\Print.cpp.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Print.cpp \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Arduino.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\binary.h \

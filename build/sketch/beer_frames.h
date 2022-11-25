@@ -1,4 +1,4 @@
-#line 1 "d:\\alkomat\\breathalyzer\\beer_frames.h"
+#line 1 "d:\\Arduino_projects\\breathalyzer\\beer_frames.h"
 
 // 'frame_00_delay-0', 128x32px
 //const unsigned char beer_framesframe_00_delay_0 [] PROGMEM = {

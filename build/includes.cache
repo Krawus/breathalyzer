@@ -10,32 +10,32 @@
     "Includepath": "C:\\Users\\krawc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\variants\\eightanaloginputs"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "SPI.h",
     "Includepath": "C:\\Users\\krawc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\libraries\\SPI\\src"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "Wire.h",
     "Includepath": "C:\\Users\\krawc\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\libraries\\Wire\\src"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "Adafruit_GFX.h",
     "Includepath": "C:\\Users\\krawc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "Adafruit_I2CDevice.h",
     "Includepath": "C:\\Users\\krawc\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "Adafruit_SSD1306.h",
     "Includepath": "C:\\Users\\krawc\\Documents\\Arduino\\libraries\\Adafruit_SSD1306"
   },
   {
-    "Sourcefile": "d:\\alkomat\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
+    "Sourcefile": "d:\\Arduino_projects\\breathalyzer\\build\\sketch\\breathalyzer.ino.cpp",
     "Include": "",
     "Includepath": null
   },

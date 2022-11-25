@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 1 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 //Arduino Nano
 // SDA pin - A4
 // SCL pin - A5
@@ -19,15 +19,17 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
-#line 20 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 20 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 void setup();
-#line 33 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 33 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 void loop();
-#line 71 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 51 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 void warmup_screen(uint32_t duration);
-#line 104 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 84 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 void print_in_centre(String to_print, uint8_t line_num);
-#line 20 "d:\\alkomat\\breathalyzer\\breathalyzer.ino"
+#line 99 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
+void print_reading(uint16_t sensor_reading);
+#line 20 "d:\\Arduino_projects\\breathalyzer\\breathalyzer.ino"
 void setup()
 {
   display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS); 
@@ -49,31 +51,11 @@ void loop()
   {
     display.clearDisplay();
     sensor_read = analogRead(sensor_pin);
-    display.setTextSize(3);
-
-    print_in_centre(String(sensor_read), 0);
-
-    display.setTextSize(1);
-
-    if(sensor_read <= 550)
-      print_in_centre("you're pretty sober", 6);
-
-    if((sensor_read > 550) && (sensor_read <= 650))
-      print_in_centre("I smeel a beer", 6);
-
-    if((sensor_read > 650) && (sensor_read <= 750) )
-      print_in_centre("someone been drinkin'", 6);
-
-    if((sensor_read > 750) && (sensor_read <= 900))
-      print_in_centre("you drunk AF", 6);
-
-    if(sensor_read > 900)
-      print_in_centre("WASTED", 6);
-
+    print_reading(sensor_read);
+    
     display.display();
 
     timestamp = act_time;
-
   }
 }
 
@@ -125,4 +107,28 @@ void print_in_centre(String to_print, uint8_t line_num)
   display.getTextBounds(to_print, 0, 0, &x_bound, &y_bound, &width, &height);
   display.setCursor((SCREEN_WIDTH - width)/2, line_num*4);
   display.println(to_print);
+}
+
+void print_reading(uint16_t sensor_reading)
+{
+  display.setTextSize(3);
+
+    print_in_centre(String(sensor_read), 0);
+
+    display.setTextSize(1);
+
+    if(sensor_read <= 550)
+      print_in_centre("you're pretty sober", 6);
+
+    if((sensor_read > 550) && (sensor_read <= 650))
+      print_in_centre("I smeel a beer", 6);
+
+    if((sensor_read > 650) && (sensor_read <= 750) )
+      print_in_centre("someone been drinkin'", 6);
+
+    if((sensor_read > 750) && (sensor_read <= 900))
+      print_in_centre("you drunk AF", 6);
+
+    if(sensor_read > 900)
+      print_in_centre("WASTED", 6);
 }

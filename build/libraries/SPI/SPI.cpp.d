@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\SPI\SPI.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\SPI\SPI.cpp.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\libraries\SPI\src\SPI.cpp \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\libraries\SPI\src\SPI.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino/Arduino.h \

@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\core\USBCore.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\core\USBCore.cpp.o: \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\USBCore.cpp \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\USBAPI.h \
  C:\Users\krawc\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.4\cores\arduino\Arduino.h \

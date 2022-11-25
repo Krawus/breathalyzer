@@ -1,4 +1,4 @@
-d:\alkomat\breathalyzer\build\libraries\Adafruit_SSD1306\Adafruit_SSD1306.cpp.o: \
+d:\Arduino_projects\breathalyzer\build\libraries\Adafruit_SSD1306\Adafruit_SSD1306.cpp.o: \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_SSD1306\Adafruit_SSD1306.cpp \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_SSD1306\Adafruit_SSD1306.h \
  C:\Users\krawc\Documents\Arduino\libraries\Adafruit_GFX_Library/Adafruit_GFX.h \
