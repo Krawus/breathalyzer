@@ -39,9 +39,9 @@ It's really hard to calibrate properly this sensor - so it could show per mille 
 ![Soldered](images/Soldered.jpg)
 
 
-## Enclosure
+## Housing
 
-I designed enclosure for the breathalyzer using Autodesk Inventor in the most precise way so no glue is needed to assemble my device.
+I designed housing for the breathalyzer using Autodesk Inventor in the most precise way so no glue is needed to assemble my device.
 
 ![enclosure](images/enclosure.png)
 
